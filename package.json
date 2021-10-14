@@ -1,0 +1,29 @@
+{
+  "name": "fe-cmdb",
+  "version": "1.0.0",
+  "description": "fe project for cmdb",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joylish/fe-cmdb.git"
+  },
+  "keywords": [
+    "cmdb"
+  ],
+  "author": "Lee Yeon Ju (Joylish)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joylish/fe-cmdb/issues"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.29",
+    "@types/react-dom": "^17.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  }
+}
